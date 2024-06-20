@@ -1,4 +1,4 @@
-# yatri
+# Tokma- Mobile app for digital toursim
 
 A new Flutter project.
 
