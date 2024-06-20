@@ -8,4 +8,4 @@ Tokma is a T-Shaped stick used by people while walking uphill and downhill in hi
 - [@ashimkarki](https://github.com/Ashimkarrki)
 - [@binitahamal](https://github.com/winiiee)
 - [@nilumahato](https://github.com/nilumahato)
-- [@nirajneupane](https://github.com/patali09)
+- [@mishraprayash](https://github.com/mishraprayash/)
